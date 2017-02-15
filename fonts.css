@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'ayoubfont';
+    src: url('fonts/ayoubfont.eot');
+    src: url('fonts/ayoubfont.eot') format('embedded-opentype'),
+         url('fonts/ayoubfont.woff2') format('woff2'),
+         url('fonts/ayoubfont.woff') format('woff'),
+         url('fonts/ayoubfont.ttf') format('truetype'),
+         url('fonts/ayoubfont.svg#ayoubfont') format('svg');
+}
